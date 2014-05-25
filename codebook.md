@@ -12,12 +12,12 @@ The following files were used in the script:
 #Assumptions
 * meanfreq variables were included as it wasn't explicity clear if these variables were needed or not.  It is much easier to remove variables then add them.  
 
-#Information about Variables 
+#Variable Details
 * Subject: contains the identifier of the subject or person
 * activity: the activity / what the person was doing when the measurements were taken
 * Others: the other variables represent the average of the all statistical measures for that subject / activity.  This is based on the calculation indicated in the column name (mean or standard deviation).
 
-#Steps to Transform Data
+#Transformation Steps
 The script:
 * Loads data from UCI folder
 * Cleans up column names 
