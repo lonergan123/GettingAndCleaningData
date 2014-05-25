@@ -1,4 +1,4 @@
-#Codebook
+#Files
 
 The following files were used in the script:
 * features.txt - List of all features.
