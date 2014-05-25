@@ -10,4 +10,4 @@ This repo contains a single script called run_analysis.R.  This script will:
 * Replace numeric values in activity column with appropriate descriptive activity names
 * Create a second, tidy data set with the average of each variable for each activity and each subject
 
-Information about the variables and can be found in the codeBook.md file.
+Additional information about the variables and transformations can be found in the codebook.md file.
